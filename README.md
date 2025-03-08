@@ -12,7 +12,7 @@
 
 ---
 
-## ** Project Structure**
+## Project Structure
 
 ```
 CarSalesAPI
@@ -47,7 +47,7 @@ CarSalesAPI
 
 ---
 
-## **Prerequisites**
+## Prerequisites
 
 - **Visual Studio 2022**
 - **.NET 8 SDK**
@@ -56,16 +56,16 @@ CarSalesAPI
 
 ---
 
-## ** Getting Started**
+## Getting Started
 
-### **Clone the Repository**
+### Clone the Repository
 
 ```sh
 git clone https://github.com/your-username/carsalesapi.git
 cd car-sales-api
 ```
 
-### **Configure the Database**
+### Configure the Database
 
 1. Open **SQL Server Management Studio (SSMS)**.
 2. Create a new database:
@@ -122,13 +122,13 @@ Replace `YOUR_SERVER` with your actual SQL Server name.
 2. Click **Open a project** → Select the `CarSalesAPI` folder.
 3. Press `F5` or click **Run** to start the API.
 
-### **Using .NET CLI**
+### Using .NET CLI
 
 dotnet run
 
-## ** API Endpoints**
+## API Endpoints
 
-### **Car Models**
+### Car Models
 
 | **Operation**   | **API Route**        | **Method** |
 | Get All Models  | `/api/carmodel`      | `GET`      |
