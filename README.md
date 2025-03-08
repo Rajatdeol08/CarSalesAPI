@@ -122,10 +122,6 @@ Replace `YOUR_SERVER` with your actual SQL Server name.
 2. Click **Open a project** → Select the `CarSalesAPI` folder.
 3. Press `F5` or click **Run** to start the API.
 
-### Using .NET CLI
-
-dotnet run
-
 ## API Endpoints
 
 ### Car Models
