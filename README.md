@@ -68,7 +68,7 @@ cd car-sales-api
 ### Configure the Database
 
 1. Open **SQL Server Management Studio (SSMS)**.
-2. Create a new database using the sql file that is given the branch named :
+2. Create a new database using the sql file which you can find in the branch named :
    **CarSalesDB.sql**
 
 
